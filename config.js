@@ -15,10 +15,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6281387601389','6281226278215'] // Put your number here //owner eval
-global.kontak = ['6281226278215','6281387601389'] //Ketika ada yang ngetik #owner
+global.owner = ['16106999265','14318136969'] // Put your number here //owner eval
+global.kontak = ['14318136969','16106999265'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6281333154367','6281392128956','6285747024007','6281281095214','6281226278215','62895385025453'] // Premium user has unlimited limit
+global.prems = ['16106999265','14318136969','919560202611','919560303903','6281226278215','62895385025453'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   rey: 'https://server-api-rey.herokuapp.com',
